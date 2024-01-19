@@ -1,0 +1,135 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Rampart+One&display=swap'); */
+/* @import url('https://fonts.googleapis.com/css2?family=Megrim&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600&display=swap');
+:root {
+    --moradito:#DEDDFC;
+    --lila:#CCC4FD;
+    --negro:#3A3A3A;
+    --blanco:#FCF6FA;
+    --fondo1:#D0C7FC;
+
+}
+body{
+    background-color: #FCF6FA;
+}
+nav{
+    background-color: var(--moradito);
+    font-family: 'Cinzel', serif;
+}
+.letras{
+    padding-top: 30px;
+    font-family: 'Cinzel', serif;
+    color: #3A3A3A;
+}
+
+header {
+    background: linear-gradient(to bottom, #D0C7FC, #FCF6FA);
+    color: #3A3A3A;
+    display: flex;
+    justify-content: space-around;
+    height: 150px;
+
+}
+
+.letras {
+    text-align: center;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+.btn-agregar {
+    background: #D0C7FC;
+    color: #3A3A3A;
+    border:solid #3A3A3A 1px;
+    width: 120px;
+    height: 35px;
+    border-radius: 10px;
+}
+
+.btn-agregar:hover{
+    background: #DEDDFC;
+}
+
+.btn-eliminar {
+    background: #CCC4FD;
+    color: #3A3A3A;
+    border:solid #3A3A3A 1px;
+    width: 120px;
+    height: 35px;
+    border-radius: 10px;
+}
+
+.btn-eliminar:hover{
+    background: #DEDDFC;
+}
+
+.btn-regresar {
+    background: #D0C7FC;
+    color: #3A3A3A;
+    border:solid #3A3A3A 1px;
+    width: 500px;
+    height: 700px;
+    border-radius: 10px;
+}
+
+.btn-regresar:hover{
+    background: #DEDDFC;
+}
+
+
+i {
+    color: #ffffff;
+}
+
+.btn_cerrar{
+    background-color: #CCC4FD;
+    color: #3A3A3A;
+    border:solid #3A3A3A 1px;
+    width: 120px;
+    height: 35px;
+    border-radius: 10px;
+}
+
+.btn_guardar1{
+    background: #CCC4FD;
+    color: #3A3A3A;
+    border:solid #3A3A3A 1px;
+    width: 120px;
+    height: 35px;
+    border-radius: 10px;
+}
+
+.marca2{
+    width: 160px;
+
+}
+.editar{
+    border:solid var(--fondo1) 2px;
+    border-radius: 6px;
+    /* width: 32px;
+    height: 32px; */
+}
+.editar:hover{
+    background: #DEDDFC;
+}
+
+.eliminarlog{
+    border:solid var(--fondo1) 2px;
+    border-radius: 6px;
+}
+.eliminarlog:hover{
+    background: #DEDDFC;
+}
+
+.titulo_Vista{
+    font-family: 'Cinzel', serif;
+    color: #3A3A3A;
+}
+
+
+
+

@@ -1,0 +1,266 @@
+CRITICAL - 2023-03-13 13:29:32 --> Undefined array key "codigo"
+in APPPATH\Views\paises\paises.php on line 29.
+ 1 APPPATH\Views\paises\paises.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "codigo"', 'APPPATH\\Views\\paises\\paises.php', 29)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\paises\\paises.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('/paises/paises', [], true)
+ 5 APPPATH\Controllers\Paises.php(22): view('/paises/paises', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Paises->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Paises))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 13:31:40 --> Undefined array key "codigo"
+in APPPATH\Views\paises\paises.php on line 29.
+ 1 APPPATH\Views\paises\paises.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "codigo"', 'APPPATH\\Views\\paises\\paises.php', 29)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\paises\\paises.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('/paises/paises', [], true)
+ 5 APPPATH\Controllers\Paises.php(22): view('/paises/paises', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Paises->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Paises))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 13:33:22 --> Undefined array key "codigo"
+in APPPATH\Views\paises\paises.php on line 29.
+ 1 APPPATH\Views\paises\paises.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "codigo"', 'APPPATH\\Views\\paises\\paises.php', 29)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\paises\\paises.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('/paises/paises', [], true)
+ 5 APPPATH\Controllers\Paises.php(22): view('/paises/paises', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Paises->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Paises))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 13:33:45 --> Undefined array key "codigo"
+in APPPATH\Views\paises\paises.php on line 29.
+ 1 APPPATH\Views\paises\paises.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "codigo"', 'APPPATH\\Views\\paises\\paises.php', 29)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\paises\\paises.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('/paises/paises', [], true)
+ 5 APPPATH\Controllers\Paises.php(22): view('/paises/paises', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Paises->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Paises))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 13:34:33 --> Undefined array key "codigo"
+in APPPATH\Views\paises\paises.php on line 29.
+ 1 APPPATH\Views\paises\paises.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "codigo"', 'APPPATH\\Views\\paises\\paises.php', 29)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\paises\\paises.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('/paises/paises', [], true)
+ 5 APPPATH\Controllers\Paises.php(22): view('/paises/paises', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Paises->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Paises))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 13:35:04 --> Class "App\Models\EmpleadosModel" not found
+in APPPATH\Controllers\Empleados.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 13:50:34 --> Class "App\Models\EmpleadosModel" not found
+in APPPATH\Controllers\Empleados.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 13:51:18 --> Class "App\Models\EmpleadosModel" not found
+in APPPATH\Controllers\Empleados.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 13:53:28 --> Class "App\Models\EmpleadosModel" not found
+in APPPATH\Controllers\Empleados.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 13:53:32 --> Class "App\Models\EmpleadosModel" not found
+in APPPATH\Controllers\Empleados.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 13:57:17 --> Undefined array key "codigo"
+in APPPATH\Views\paises\paises.php on line 29.
+ 1 APPPATH\Views\paises\paises.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "codigo"', 'APPPATH\\Views\\paises\\paises.php', 29)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\paises\\paises.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('/paises/paises', [], true)
+ 5 APPPATH\Controllers\Paises.php(22): view('/paises/paises', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Paises->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Paises))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 13:57:28 --> Undefined array key "codigo"
+in APPPATH\Views\paises\paises.php on line 29.
+ 1 APPPATH\Views\paises\paises.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "codigo"', 'APPPATH\\Views\\paises\\paises.php', 29)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\paises\\paises.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('/paises/paises', [], true)
+ 5 APPPATH\Controllers\Paises.php(22): view('/paises/paises', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Paises->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Paises))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 13:58:41 --> Undefined array key "codigo"
+in APPPATH\Views\paises\paises.php on line 29.
+ 1 APPPATH\Views\paises\paises.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "codigo"', 'APPPATH\\Views\\paises\\paises.php', 29)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\paises\\paises.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('/paises/paises', [], true)
+ 5 APPPATH\Controllers\Paises.php(22): view('/paises/paises', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Paises->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Paises))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 13:59:25 --> Class "App\Models\EmpleadosModel" not found
+in APPPATH\Controllers\Empleados.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 13:59:59 --> Class "App\Models\EmpleadosModel" not found
+in APPPATH\Controllers\Empleados.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 14:00:48 --> Undefined array key "codigo"
+in APPPATH\Views\paises\paises.php on line 29.
+ 1 APPPATH\Views\paises\paises.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "codigo"', 'APPPATH\\Views\\paises\\paises.php', 29)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\paises\\paises.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('/paises/paises', [], true)
+ 5 APPPATH\Controllers\Paises.php(22): view('/paises/paises', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Paises->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Paises))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 14:19:00 --> Undefined array key "codigo"
+in APPPATH\Views\paises\paises.php on line 29.
+ 1 APPPATH\Views\paises\paises.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "codigo"', 'APPPATH\\Views\\paises\\paises.php', 29)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\paises\\paises.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('/paises/paises', [], true)
+ 5 APPPATH\Controllers\Paises.php(22): view('/paises/paises', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Paises->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Paises))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 15:35:23 --> Class "App\Models\EmpleadosModel" not found
+in APPPATH\Controllers\Empleados.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 15:35:46 --> Class "App\Models\EmpleadosModel" not found
+in APPPATH\Controllers\Empleados.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 15:38:38 --> Class "App\Models\EmpleadosModel" not found
+in APPPATH\Controllers\Empleados.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 15:40:29 --> Class "App\Models\EmpleadosModel" not found
+in APPPATH\Controllers\Empleados.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 15:41:34 --> Class "App\Models\EmpleadosModel" not found
+in APPPATH\Controllers\Empleados.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 15:42:43 --> Class "App\Models\EmpleadosModel" not found
+in APPPATH\Controllers\Empleados.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 15:44:38 --> Class "App\Models\EmpleadosModel" not found
+in APPPATH\Controllers\Empleados.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 15:45:23 --> Class "App\Models\EmpleadosModel" not found
+in APPPATH\Controllers\Empleados.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 15:45:35 --> Class "App\Models\EmpleadosModel" not found
+in APPPATH\Controllers\Empleados.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 15:45:40 --> Class "App\Models\EmpleadosModel" not found
+in APPPATH\Controllers\Empleados.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 15:46:40 --> Class "App\Models\EmpleadosModel" not found
+in APPPATH\Controllers\Empleados.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 15:51:11 --> Class "App\Models\EmpleadosModel" not found
+in APPPATH\Controllers\Empleados.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 15:51:41 --> Class "App\Models\EmpleadosModel" not found
+in APPPATH\Controllers\Empleados.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 15:55:11 --> Class "App\Models\EmpleadosModel" not found
+in APPPATH\Controllers\Empleados.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 15:56:36 --> Class "App\Models\EmpleadosModel" not found
+in APPPATH\Controllers\Empleados.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 15:57:12 --> Class "App\Models\EmpleadosModel" not found
+in APPPATH\Controllers\Empleados.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 15:57:15 --> Class "App\Models\EmpleadosModel" not found
+in APPPATH\Controllers\Empleados.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 15:57:27 --> Class "App\Models\EmpleadosModel" not found
+in APPPATH\Controllers\Empleados.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 15:58:23 --> Class "App\Models\EmpleadosModel" not found
+in APPPATH\Controllers\Empleados.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Empleados->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
